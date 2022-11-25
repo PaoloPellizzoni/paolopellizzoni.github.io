@@ -4,47 +4,36 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in computer science at ETH Zürich. I am supervised by Prof. K. Borgwardt.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Theoretical Computer Science:** approximation algorithms, sampling theory
+- **Machine Learning and Data Mining:** statistical learning theory, pattern mining, clustering, graph learning
+- **Bioinformatics:** genetic marker discovery
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Dimensionality-adaptive k-center in sliding windows**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Paolo Pellizzoni**, A. Pietracaprina, G. Pucci
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  IEEE International Conference on Data Science and Advanced Analytics. **DSAA 2020**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/9260003)]
+  
+ - **Adaptive k-center and diameter estimation in sliding windows**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Paolo Pellizzoni**, A. Pietracaprina, G. Pucci
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  International Journal of Data Science and Analytics (Springer). **JDSA**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
+  [[PDF](https://link.springer.com/article/10.1007/s41060-022-00318-z)]
+  
+- **k-Center Clustering with Outliers in Sliding Windows**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Paolo Pellizzoni**, A. Pietracaprina, G. Pucci
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+  Algorithms (MDPI).
+  [[PDF](https://www.mdpi.com/1999-4893/15/2/52)]
