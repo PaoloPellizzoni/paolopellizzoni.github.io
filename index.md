@@ -36,4 +36,5 @@ I am a Ph.D. student in computer science at ETH Zürich. I am supervised by Prof
   **Paolo Pellizzoni**, A. Pietracaprina, G. Pucci
   <br>
   Algorithms (MDPI).
+  <br>
   [[PDF](https://www.mdpi.com/1999-4893/15/2/52)]
