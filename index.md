@@ -21,19 +21,19 @@ Discovery Rate Control"_, in IEEE ICDM, 2023. <br>
 
 - D. Chen<sup>\*</sup>, **Paolo Pellizzoni<sup>\*</sup>**, and K. Borgwardt. _“Fisher Information Embedding for Node and
 Graph Learning”_, in ICML, 2023. <br>
-  [[PDF]()]
+  [[PDF](https://arxiv.org/abs/2305.07580)]
 
 - **Paolo Pellizzoni**, G. Muzio, and K. Borgwardt. _“Higher-order genetic interaction discovery with
 network-based biological priors”_, in ISMB, 2023. <br>
-  [[PDF]()]
+  [[PDF](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i523/7210485)]
 
 - **Paolo Pellizzoni**, A. Pietracaprina, and G. Pucci. _"Fully Dynamic Clustering and Diversity
 Maximization in Doubling Metrics"_, in WADS, 2023. <br>
-  [[PDF]()]
+  [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-38906-1_41)]
 
 - **Paolo Pellizzoni** and F. Vandin. _“VC-dimension and Rademacher Averages of Subgraphs, with
 Applications to Graph Mining”_, in IEEE ICDE, 2023. <br>
-  [[PDF]()]
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/10184718/)]
 
 - **Paolo Pellizzoni**, A. Pietracaprina and G. Pucci. _"Adaptive k-center and diameter estimation in sliding windows"_,
   International Journal of Data Science and Analytics, 2022. <br>
