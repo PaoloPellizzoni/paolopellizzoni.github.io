@@ -15,9 +15,12 @@ I am a Ph.D. student in computer science at the Max Planck Institute of Biochemi
 
 ## Publications
 
+- **Paolo Pellizzoni**, C. Oliver and K. Borgwardt. _"Structure- and function-aware substitution matrices via learnable graph matching"_, in RECOMB, 2024. <br>
+  [[PDF Coming soon]()]
+
 - **Paolo Pellizzoni** and K. Borgwardt. _"FASM and Fast-YB: Significant Pattern Mining with False
 Discovery Rate Control"_, in IEEE ICDM, 2023. <br>
-  [[PDF]()]
+  [[PDF](https://www.computer.org/csdl/proceedings-article/icdm/2023/078800b265/1Ui3jN3iC2I)]
 
 - D. Chen<sup>\*</sup>, **Paolo Pellizzoni<sup>\*</sup>**, and K. Borgwardt. _“Fisher Information Embedding for Node and
 Graph Learning”_, in ICML, 2023. <br>
