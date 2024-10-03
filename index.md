@@ -15,6 +15,9 @@ I am a Ph.D. student in computer science at the Max Planck Institute of Biochemi
 
 ## Publications
 
+- **Paolo Pellizzoni**, T. Schulz, D. Chen and K. Borgwardt. _On the Expressivity and Sample Complexity of Node-Individualized Graph Neural Networks_, in NeurIPS, 2024. <br>
+  [[PDF]()]
+
 - **Paolo Pellizzoni**, C. Oliver and K. Borgwardt. _"Structure- and function-aware substitution matrices via learnable graph matching"_, in RECOMB, 2024. <br>
   [[PDF](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_18)]
 
