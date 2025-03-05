@@ -8,15 +8,18 @@ I am a Ph.D. student in computer science at the Max Planck Institute of Biochemi
 
 ## Research Interests
 
-- **Theoretical Computer Science:** approximation algorithms, sampling theory
-- **Machine Learning and Data Mining:** statistical learning theory, pattern mining, clustering, graph learning
-- **Bioinformatics:** genetic marker discovery
+- **Machine Learning:** clustering, graph learning, statistical learning theory
+- **Theoretical Computer Science:** approximation algorithms, dynamic algorithms
+- **Data Mining and Bioinformatics:** pattern mining (e.g., itemsets, subgraphs), genetic marker discovery
 
 
 ## Publications
 
+- **Paolo Pellizzoni**, T. Schulz, and K. Borgwardt. _Graph Neural Networks Can (Often) Count Substructures_, in ICLR, 2025. **(Spotlight)** <br>
+  [[PDF](https://openreview.net/forum?id=sZQRUrvLn4)]
+  
 - **Paolo Pellizzoni**, T. Schulz, D. Chen and K. Borgwardt. _On the Expressivity and Sample Complexity of Node-Individualized Graph Neural Networks_, in NeurIPS, 2024. <br>
-  [[PDF]()]
+  [[PDF](https://openreview.net/forum?id=8APPypS0yN)]
 
 - **Paolo Pellizzoni**, C. Oliver and K. Borgwardt. _"Structure- and function-aware substitution matrices via learnable graph matching"_, in RECOMB, 2024. <br>
   [[PDF](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_18)]
@@ -46,7 +49,7 @@ Applications to Graph Mining”_, in IEEE ICDE, 2023. <br>
   [[PDF](https://link.springer.com/article/10.1007/s41060-022-00318-z)]
 
 - **Paolo Pellizzoni**, A. Pietracaprina, and G. Pucci. _"k-Center Clustering with Outliers in Sliding Windows"_,
-  Algorithms, vol. 15, no. 2, 2022. <br>
+  Algorithms, 2022. <br>
   [[PDF](https://www.mdpi.com/1999-4893/15/2/52)]
 
 - **Paolo Pellizzoni**, A. Pietracaprina, and G. Pucci. _"Dimensionality-adaptive k-center in sliding windows"_,
